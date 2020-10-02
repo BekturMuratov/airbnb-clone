@@ -5,42 +5,40 @@
     width: 100vw;
 }
 
-.search > h2 {
+.search>h2 {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 559px;
     padding: 10px;
-    background-color: white;
+    background-color: #fff;
     position: absolute;
     left: 0;
-    top: 380px;
+    top: 349px;
 }
 
-.search > input {
+.search>input {
     width: 539px;
     padding: 20px;
     position: absolute;
     left: 0;
     height: 30px;
-    top: 420px;
+    top: 401px;
     border: none;
-  }
-  
+}
 .search > input:focus {
     outline-width: 0;
 }
 
-.search > button {
+.search>button {
     position: absolute;
     left: 0;
-    top: 480px;
-    text-transform: inherit !important;
+    top: 467px;
+    text-transform: inherit!important;
     background-color: #ff7779;
-    color: white;
+    color: #fff;
     width: 579px;
-  }
-
+}
 .search > button:hover {
     background-color: white;
     color: #ff7779;
