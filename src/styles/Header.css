@@ -13,10 +13,9 @@
 }
 
 .header__icon {
-	object-fit: contain;
-	height: 50px;
-	margin-left: 20px;
-
+    object-fit: contain;
+    height: 95px;
+    margin-left: 20px;
 }
 
 .header__center {
